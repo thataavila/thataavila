@@ -1,4 +1,4 @@
-### Oii! Sou eu Thais AVila
+### Oii! Sou eu Thais Avila
 
 
 - 💬 contate - me: thais.oavila@gmail.com
