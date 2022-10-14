@@ -14,6 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" height="150" alt="tata-gif" src="https://cdn.discordapp.com/attachments/887085317717377057/1030292701574344754/ezgif.com-gif-maker.gif">
+  <img align="center" alt="Rafa-jv" height="30" width="40" src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">">
 </div>
   
   ##
